@@ -1,0 +1,461 @@
+.title {
+  font-family: 'Libre Baskerville', serif;
+  padding: 30px;
+  margin: 0;
+  font-size: 26pt;
+  color: #242323;
+  background-color: #F2F2F2;
+}
+
+span {
+  font-family: 'Libre Baskerville', serif;
+  margin: 1.5px;
+  line-height: 170%;
+  font-size: 11px;
+}
+
+.legendD {
+  margin: 0;
+  padding-bottom: 15px;
+  background-color: #F2F2EB;
+}
+.legendTitle {
+  font-family: Helvetica;
+  margin-left: 33px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-size: 11pt;
+  color: #242323;
+}
+.legend1 {
+  font-family: Helvetica;
+  padding: 2px;
+  margin-left: 5px;
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.legend2 {
+  font-family: Helvetica;
+  padding: 2px;
+  margin-left: 5px;
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.legend3 {
+  font-family: Helvetica;
+  padding: 2px;
+  margin-left: 5px;
+  background: #E0B41D;
+  color: #FFFFFF;
+}
+.legend4 {
+  font-family: Helvetica;
+  padding: 2px;
+  margin-left: 5px;
+  background: #767F00;
+  color: #FFFFFF;
+}
+.legend5 {
+  font-family: Helvetica;
+  padding: 2px;
+  margin-left: 5px;
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.legend6 {
+  font-family: Helvetica;
+  padding: 2px;
+  margin-left: 5px;
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.legend7 {
+  font-family: Helvetica;
+  padding: 2px;
+  margin-left: 5px;
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.legend8 {
+  font-family: Helvetica;
+  padding: 2px;
+  margin-left: 5px;
+  background: #002230;
+  color: #FFFFFF;
+}
+
+
+/*.1 ECONOMY burgundy #4A0709;*/
+/*.2 SECURITY coral #BD2B0B;*/
+/*.3 HEALTH gold #E0B41D;*/
+/*.4 ENVIRONMENT green #767F00;*/
+/*.5 EDUCATION grey #ACAFBF;*/
+/*.6 TECHNOLOGY sky #78CCFF;*/
+/*.7 EQUALITY blue #0056A6;*/
+/*.8 POLITICS navy #002230;*/
+/*.charcoal #242323;*/
+/*.neutral #242323;*/
+
+/*.ECONOMY burgundy #4A0709 --------------------------------------------------------*/
+.economy {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.economic {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.economics {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.job {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.jobs {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.worker {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.workers {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.business {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.businesses {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.wage {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.wages {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.tax {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.taxes {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+.trade {
+  background: #4A0709;
+  color: #FFFFFF;
+}
+
+/*.SECURITY coral #BD2B0B --------------------------------------------------------*/
+.security {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.dipomacy {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.allies {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.war {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.wars {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.threat {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.threats {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.privacy {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.foreign {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.terrorism {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.terror {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.terrorist {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+.terrorists {
+  background: #BD2B0B;
+  color: #FFFFFF;
+}
+
+/*.HEALTH gold #E0B41D --------------------------------------------------------*/
+.health {
+  background: #E0B41D;
+  color: #FFFFFF;
+}
+.uninsured {
+  background: #E0B41D;
+  color: #FFFFFF;
+}
+.insured {
+  background: #E0B41D;
+  color: #FFFFFF;
+}
+.care {
+  background: #E0B41D;
+  color: #FFFFFF;
+}
+.childcare {
+  background: #E0B41D;
+  color: #FFFFFF;
+}
+.Medicare {
+  background: #E0B41D;
+  color: #FFFFFF;
+}
+.Medicaid {
+  background: #E0B41D;
+  color: #FFFFFF;
+}
+.healthcare {
+  background: #E0B41D;
+  color: #FFFFFF;
+}
+
+/*.ENVIRONMENT green #767F00 --------------------------------------------------------*/
+.climate {
+  background: #767F00;
+  color: #FFFFFF;
+}
+.energy {
+  background: #767F00;
+  color: #FFFFFF;
+}
+.oil {
+  background: #767F00;
+  color: #FFFFFF;
+}
+.gas {
+  background: #767F00;
+  color: #FFFFFF;
+}
+.fuel {
+  background: #767F00;
+  color: #FFFFFF;
+}
+.planet {
+  background: #767F00;
+  color: #FFFFFF;
+}
+.pollution {
+  background: #767F00;
+  color: #FFFFFF;
+}
+.emissions {
+  background: #767F00;
+  color: #FFFFFF;
+}
+
+/*.EDUCATION olive #ACAFBF  --------------------------------------------------------*/
+.student {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.students {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.college {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.colleges {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.graduate {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.graduates {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.school {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.schools {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.education {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.debt {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+.graduating {
+  background: #ACAFBF;
+  color: #FFFFFF;
+}
+
+/*.TECHNOLOGY sky #78CCFF --------------------------------------------------------*/
+.technology {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.network {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.networks {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.internet {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.space {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.research {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.medicine {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.scientist {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.scientists {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+.development {
+  background: #78CCFF;
+  color: #FFFFFF;
+}
+
+/*.EQUALITY blue #0056A6 --------------------------------------------------------*/
+.woman {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.women {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.human {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.dignity {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.gay {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.justice {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.values {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.condemn {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.condemns {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+.equal {
+  background: #0056A6;
+  color: #FFFFFF;
+}
+
+/*.POLITICS navy #002230 --------------------------------------------------------*/
+.Congress {
+  background: #002230;
+  color: #FFFFFF;
+}
+.politics {
+  background: #002230;
+  color: #FFFFFF;
+}
+.political {
+  background: #002230;
+  color: #FFFFFF;
+}
+.government {
+  background: #002230;
+  color: #FFFFFF;
+}
+.governments {
+  background: #002230;
+  color: #FFFFFF;
+}
+.vote {
+  background: #002230;
+  color: #FFFFFF;
+}
+.voting {
+  background: #002230;
+  color: #FFFFFF;
+}
+.democratic {
+  background: #002230;
+  color: #FFFFFF;
+}
+.Democrat {
+  background: #002230;
+  color: #FFFFFF;
+}
+.Democrats {
+  background: #002230;
+  color: #FFFFFF;
+}
+.Republican {
+  background: #002230;
+  color: #FFFFFF;
+}
+.Republicans {
+  background: #002230;
+  color: #FFFFFF;
+}
+.bipartisan {
+  background: #002230;
+  color: #FFFFFF;
+}
