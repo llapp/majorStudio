@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UNDP African Human Development Report 2015
 
 ## Linnea Lapp
@@ -28,3 +29,6 @@ I would like to explore the relationship between social norms (specifically chil
 - Sources include the dataset from 2.2, specifically the child marriage data and the HDR spreadsheet containing HDI data.
 - Data has also been sourced from UNICEF Data: Monitoring the Situation of Children and Women (http://data.unicef.org/child-protection/violent-unions.html#sthash.wYgsuPXR.dpuf)
 
+=======
+# majorStudio
+>>>>>>> 778168a8d797a26e320905190a851ca764d108ad
